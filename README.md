@@ -23,3 +23,9 @@ No high-level data libraries (e.g. pandas) were used to highlight strong fundame
 ```bash
 pip install numpy
 python risk_summary.py
+
+## Dataset Note
+The original dataset is approximately 88 MB and exceeds GitHub's file size limits.
+
+For demonstration purposes, this repository includes a representative sample of the data.
+The script works identically on the full dataset when run locally.
