@@ -1,0 +1,17 @@
+AUTOMATED VEHICLE RISK SUMMARY REPORT
+==========================================
+
+Total vehicles analyzed: 558731
+
+High Price Risk:
+- Vehicles affected: 56105
+- Percentage of total: 10.04%
+
+High Mileage Risk:
+- Vehicles affected: 55875
+- Percentage of total: 10.0%
+
+Old Vehicle Risk:
+- Vehicles affected: 61508
+- Percentage of total: 11.01%
+
